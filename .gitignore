@@ -50,6 +50,9 @@ ExportedObj/
 .consulo/
 *.csproj
 # *.unityproj
+#*.csproj
+*.unityproj
+>>>>>>> 478c689 (edit .gitignore)
 *.sln
 *.suo
 *.tmp
