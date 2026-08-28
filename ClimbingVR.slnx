@@ -1,8 +1,3 @@
-﻿<Solution>
-  <Project Path="Unity.XR.Interaction.Toolkit.Samples.StarterAssets.csproj" />
-  <Project Path="Unity.XR.Hands.Samples.VisualizerSample.csproj" />
-  <Project Path="Unity.XR.Interaction.Toolkit.Samples.Hands.csproj" />
-  <Project Path="Assembly-CSharp.csproj" />
-  <Project Path="Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor.csproj" />
-  <Project Path="Unity.XR.Interaction.Toolkit.Samples.Hands.Editor.csproj" />
-</Solution>
+version https://git-lfs.github.com/spec/v1
+oid sha256:d6ddfef7574cb52ca4bf89544643e85c454b4846cfb72e83880451fc5ce645f9
+size 641

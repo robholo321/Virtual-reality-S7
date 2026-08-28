@@ -1,11 +1,3 @@
-{
-    "m_Dictionary": {
-        "m_DictionaryValues": [
-            {
-                "type": "System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
-                "key": "IET.DisplayWelcomeDialogOnStartup",
-                "value": "{\"m_Value\":false}"
-            }
-        ]
-    }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:8788112f7cc9ef935c86d581506c562a207184316279fcc78c97d8bb9f841f4c
+size 327
